@@ -1,0 +1,11 @@
+flask
+flask-cors
+llama_parse
+openai
+requests
+pinecone-client
+llama-index-llms-openai
+llama-index-postprocessor-cohere-rerank
+python-dotenv
+llama-index-agent-openai
+llama-index-embeddings-openai
