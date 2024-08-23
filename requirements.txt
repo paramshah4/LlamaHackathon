@@ -15,8 +15,11 @@ pdf2image
 pillow
 poppler
 tesseract
+llama-index-vector-stores-pinecone
+llama-index-embeddings-huggingface
 
 # Ignore for now
 # pip install --upgrade pybind11        # 2.10.1 or higher  (latest as of today: 2.11.1)
 # pip install --verbose  'nmslib @ git+https://github.com/nmslib/nmslib.git#egg=nmslib&subdirectory=python_bindings'
 # pip install -U langchain-openai
+# pip install --upgrade llama-index
